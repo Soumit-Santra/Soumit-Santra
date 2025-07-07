@@ -1,2 +1,2 @@
-# 👋 Hey there,
+# 👋 Hey there
 
