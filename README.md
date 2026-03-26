@@ -1,154 +1,237 @@
 <div align="center">
 
-```
-███████╗ ██████╗ ██╗   ██╗███╗   ███╗██╗████████╗
-██╔════╝██╔═══██╗██║   ██║████╗ ████║██║╚══██╔══╝
-███████╗██║   ██║██║   ██║██╔████╔██║██║   ██║   
-╚════██║██║   ██║██║   ██║██║╚██╔╝██║██║   ██║   
-███████║╚██████╔╝╚██████╔╝██║ ╚═╝ ██║██║   ██║   
-╚══════╝ ╚═════╝  ╚═════╝ ╚═╝     ╚═╝╚═╝   ╚═╝  
-```
+<!-- HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003300,100:00ff41&height=200&section=header&text=Soumit%20Santra&fontSize=60&fontColor=00ff41&fontAlignY=38&desc=%5B%20Full%20Stack%20Dev%20%7C%20Cybersecurity%20Enthusiast%20%5D&descAlignY=58&descColor=c0c0c0&animation=twinkling" width="100%"/>
 
-```
- ____    _    _   _ _____ ____      _    
-/ ___|  / \  | \ | |_   _|  _ \   / \   
-\___ \ / _ \ |  \| | | | | |_) | / _ \  
- ___) / ___ \| |\  | | | |  _ < / ___ \ 
-|____/_/   \_\_| \_| |_| |_| \_/_/   \_\
-```
+<!-- TYPING ANIMATION -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=700&lines=%24+whoami+%E2%86%92+Soumit+Santra;%5B+FULL+STACK+DEVELOPER+%5D;%5B+CYBERSECURITY+ENTHUSIAST+%5D;%5B+ROOT+ACCESS+GRANTED+%E2%9C%94+%5D;%5B+CTF+PLAYER+%7C+OPEN+SOURCE+LOVER+%5D;%5B+HACK+THE+PLANET+%5D" alt="Typing SVG" />
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=600&lines=%5B+INITIALIZING...+%5D;%5B+FULL+STACK+DEVELOPER+%5D;%5B+CYBERSECURITY+ENTHUSIAST+%5D;%5B+ROOT+ACCESS+GRANTED+%5D;%5B+HACK+THE+PLANET+%5D)
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=soumitsantra&style=for-the-badge&color=00ff41&label=VISITORS" />
+<!-- BADGES ROW -->
+<img src="https://komarev.com/ghpvc/?username=soumitsantra&style=for-the-badge&color=00ff41&labelColor=0d0d0d&label=VISITORS" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/soumitsantra?style=for-the-badge&color=00ff41&labelColor=0d0d0d&logo=github&logoColor=00ff41&label=FOLLOWERS" />
+&nbsp;
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00ff41?style=for-the-badge&labelColor=0d0d0d&logo=statuspage&logoColor=00ff41" />
+&nbsp;
+<img src="https://img.shields.io/badge/OPEN_TO-COLLABORATE-00ff41?style=for-the-badge&labelColor=0d0d0d&logo=handshake&logoColor=00ff41" />
 
 </div>
 
 ---
 
-```bash
-┌──(soumit㉿kali)-[~]
-└─$ whoami
-```
-```
-> Soumit Santra
-> Cybersecurity Enthusiast | Full Stack Developer 
-> Location: India 🇮🇳
-> Status: Always learning. Always hacking. Never stopping.
-```
+## `> SYSTEM BOOT`
 
 ```bash
-┌──(soumit㉿kali)-[~]
+┌──(soumit㉿matrix)-[~]
+└─$ cat /etc/profile.conf
+```
+
+```yaml
+Name        : Soumit Santra
+Role        : Full Stack Developer & Cybersecurity Enthusiast
+Location    : India 🇮🇳
+OS          : Kali Linux / Ubuntu
+Shell       : zsh + oh-my-zsh
+Editor      : VS Code + Neovim
+Status      : [■■■■■■■■■■] Hacking... always.
+Mission     : Build. Break. Secure. Repeat.
+```
+
+---
+
+## `> TECH ARSENAL`
+
+```bash
+┌──(soumit㉿matrix)-[~]
 └─$ cat /etc/skills.conf
 ```
 
-```ini
-[FRONTEND]
-languages   = HTML · CSS · JavaScript · TypeScript
-frameworks  = React · Next.js · Tailwind CSS
+### 🖥️ Frontend
 
-[BACKEND]
-languages   = Python · Node.js · Java
-frameworks  = Express · FastAPI · Django
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-[DATABASE]
-tools       = PostgreSQL · MongoDB · MySQL · Redis
+### ⚙️ Backend
 
-[CYBERSECURITY]
-tools       = Nmap · Burp Suite · Wireshark · Metasploit
-domains     = Web Security · Network Recon · CTF Challenges · OSINT
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-[DEVOPS]
-tools       = Docker · Git · Linux · CI/CD
-```
+### 🗄️ Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### 🔐 Cybersecurity
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)
+![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
+
+### 🛠️ DevOps & Tools
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 
 ---
 
-```bash
-┌──(soumit㉿kali)-[~]
-└─$ cat mindset.txt
-```
-
-```
-"The quieter you become, the more you can hear." — Kali Linux
-"First, solve the problem. Then, write the code." 
-"Every system has a vulnerability. Every problem has a solution."
-```
-
----
+## `> GITHUB INTEL`
 
 ```bash
-┌──(soumit㉿kali)-[~]
-└─$ ./github_stats.sh
+┌──(soumit㉿matrix)-[~]
+└─$ ./fetch_stats.sh --user soumitsantra
 ```
 
 <div align="center">
 
-![Soumit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=soumitsantra&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&icon_color=00ff41&text_color=c0c0c0)
+<img src="https://github-readme-stats.vercel.app/api?username=soumitsantra&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&icon_color=00ff41&text_color=c0c0c0&border_radius=10" height="185"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumitsantra&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=c0c0c0&border_radius=10" height="185"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=soumitsantra&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=c0c0c0)
+<br/><br/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=soumitsantra&theme=terminal&hide_border=true&background=0d0d0d&ring=00ff41&fire=00ff41&currStreakLabel=00ff41)
+<img src="https://streak-stats.demolab.com?user=soumitsantra&theme=terminal&hide_border=true&background=0d0d0d&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=c0c0c0&dates=888888&border_radius=10" width="60%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=soumitsantra&bg_color=0d0d0d&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=003300&hide_border=true&border_radius=10" width="95%"/>
 
 </div>
 
 ---
 
+## `> TROPHIES`
+
 ```bash
-┌──(soumit㉿kali)-[~]
+┌──(soumit㉿matrix)-[~]
+└─$ cat /var/log/achievements.log
+```
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=soumitsantra&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%"/>
+
+</div>
+
+---
+
+## `> NMAP SCAN`
+
+```bash
+┌──(soumit㉿matrix)-[~]
 └─$ nmap -sV --open soumit.dev
 ```
 
 ```
-PORT        STATE  SERVICE       VERSION
-22/tcp      open   ssh           [Always open for collaboration]
-80/tcp      open   http          [Portfolio — coming soon]
-443/tcp     open   https         [Secure by design]
-8080/tcp    open   projects      [Open Source Contributions]
-9999/tcp    open   ctf           [Capture The Flag mode: ON]
+Starting Nmap 7.94 scan report for soumit.dev
+
+PORT        STATE   SERVICE          INFO
+22/tcp      open    ssh              ✅ Open for collaboration
+80/tcp      open    http             🌐 Portfolio — LIVE
+443/tcp     open    https            🔒 Encrypted. Secure by design.
+3000/tcp    open    react-dev        ⚛️  Always building something new
+8080/tcp    open    api-server       🔌 RESTful & GraphQL endpoints live
+9999/tcp    open    ctf-listener     🚩 CTF Mode: ACTIVE
+31337/tcp   open    elite            😈 h4x0r port — always open
+
+Nmap done: 7 ports open | 0 filtered | Hack The Planet ✊
 ```
 
 ---
 
+## `> CURRENT MISSION`
+
 ```bash
-┌──(soumit㉿kali)-[~]
-└─$ cat /proc/interests
+┌──(soumit㉿matrix)-[~]
+└─$ cat /proc/current_ops
 ```
 
-```yaml
-🔐 Web Application Security & Penetration Testing
-🕸️  Building Scalable Full Stack Applications
-🧩  CTF Challenges & Security Research
-🐧  Linux & Open Source Everything
-⚡  Automating the boring stuff
+```
+🔭  Building   →  Full Stack web applications at scale
+🔐  Learning   →  Advanced penetration testing & OSINT
+🧩  Playing    →  CTF Challenges (HackTheBox / TryHackMe)
+🐧  Running    →  Kali Linux as daily driver
+⚡  Automating →  Everything that can be automated
+💬  Ask me     →  Web dev, cybersecurity, Linux tricks
+🤝  Open to    →  Collabs, freelance, open source PRs
+☕  Fuel        →  Coffee + terminal = productivity
 ```
 
 ---
 
+## `> CONNECT`
+
 ```bash
-┌──(soumit㉿kali)-[~]
-└─$ ./connect.sh --target soumit
+┌──(soumit㉿matrix)-[~]
+└─$ ./connect.sh --target soumit --protocol all
 ```
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-soumitsantra-00ff41?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=0d0d0d)](https://linkedin.com/in/soumitsantra)
-[![GitHub](https://img.shields.io/badge/GitHub-soumitsantra-00ff41?style=for-the-badge&logo=github&logoColor=black&labelColor=0d0d0d)](https://github.com/soumitsantra)
-[![Email](https://img.shields.io/badge/Email-Ping_Me-00ff41?style=for-the-badge&logo=gmail&logoColor=black&labelColor=0d0d0d)](mailto:soumitsantra@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Soumit_Santra-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d)](https://linkedin.com/in/soumitsantra)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-soumitsantra-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d)](https://github.com/soumitsantra)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-soumitsantra-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d)](mailto:soumitsantra@gmail.com)
+&nbsp;
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-soumitsantra-212C42?style=for-the-badge&logo=tryhackme&logoColor=red&labelColor=0d0d0d)](https://tryhackme.com/p/soumitsantra)
+&nbsp;
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-soumitsantra-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black&labelColor=0d0d0d)](https://app.hackthebox.com/profile/soumitsantra)
+&nbsp;
+[![Twitter](https://img.shields.io/badge/Twitter-soumitsantra-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0d0d0d)](https://twitter.com/soumitsantra)
 
 </div>
 
 ---
 
+## `> CONTRIBUTION MATRIX`
+
+```bash
+┌──(soumit㉿matrix)-[~]
+└─$ watch -n 1 git log --all --oneline
+```
+
 <div align="center">
 
-```
-[■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■] 100% — PROFILE LOADED
-```
+<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+
+</div>
+
+---
+
+<!-- FOOTER -->
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="70%"/>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:003300,100:000000&height=130&section=footer&text=root%40soumit%3A~%23%20_&fontSize=22&fontColor=00ff41&animation=twinkling" width="100%"/>
 
 ```
- ⚡ "I didn't hack the system. I just understood it better than it understood itself." ⚡
+[ ✔ SESSION ACTIVE ]  ···  "I didn't hack the system. I just understood it better than it understood itself."  ···  [ ✔ UPTIME: ∞ ]
 ```
-
-![Snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
 
 </div>
