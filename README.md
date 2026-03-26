@@ -8,9 +8,9 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Soumit-Santra&style=for-the-badge&color=00bfff&labelColor=0d0d0d&label=👁️+PROFILE+VIEWS"/>
+[![Profile Views](https://komarev.com/ghpvc/?username=Soumit-Santra&style=for-the-badge&color=00bfff&labelColor=0d0d0d&label=👁️+PROFILE+VIEWS)](https://github.com/Soumit-Santra)
 &nbsp;
-<img src="https://img.shields.io/github/followers/Soumit-Santra?style=for-the-badge&color=00bfff&labelColor=0d0d0d&logo=github&logoColor=00bfff&label=FOLLOWERS"/>
+[![Followers](https://img.shields.io/github/followers/Soumit-Santra?style=for-the-badge&color=00bfff&labelColor=0d0d0d&logo=github&logoColor=00bfff&label=FOLLOWERS)](https://github.com/Soumit-Santra?tab=followers)
 &nbsp;
 <img src="https://img.shields.io/badge/STATUS-ONLINE-00bfff?style=for-the-badge&labelColor=0d0d0d&logo=statuspage&logoColor=00bfff"/>
 &nbsp;
@@ -34,7 +34,7 @@
 ║                    OPERATOR PROFILE                          ║
 ╠══════════════════════════════════════════════════════════════╣
 ║  Name        :  Soumit Santra                                ║
-║  Handle      :  github.com/Soumit-Santra                     ║
+║  Handle      :  https://github.com/Soumit-Santra              ║
 ║  Role        :  Full Stack Developer & Cybersecurity Expert  ║
 ║  Location    :  India 🇮🇳                                     ║
 ║  OS          :  Kali Linux / Ubuntu                          ║
@@ -275,7 +275,7 @@ Nmap done: 8 ports scanned | 8 open | 0 filtered
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00bfff,50:001a33,100:000000&height=140&section=footer&text=root%40soumit%3A~%23%20_&fontSize=24&fontColor=00bfff&animation=twinkling" width="100%"/>
 
 ```
-[ ✔ SESSION ACTIVE ]  ·  github.com/Soumit-Santra  ·  [ ✔ UPTIME: ∞ ]
+[ ✔ SESSION ACTIVE ]  ·  [github.com/Soumit-Santra](https://github.com/Soumit-Santra)  ·  [ ✔ UPTIME: ∞ ]
 ```
 
 </div>
