@@ -127,16 +127,26 @@ Mission     : Build. Break. Secure. Repeat.
 
 ---
 
-## `> TROPHIES`
+## `> FEATURED PROJECTS`
 
 ```bash
 ┌──(soumit㉿matrix)-[~]
-└─$ cat /var/log/achievements.log
+└─$ ls -la ~/projects/ --sort=stars
 ```
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Soumit-Santra&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%"/>
+[![File-Organizer](https://github-readme-stats.vercel.app/api/pin/?username=Soumit-Santra&repo=File-Organizer&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&icon_color=00ff41&text_color=c0c0c0&border_radius=10)](https://github.com/Soumit-Santra/File-Organizer)
+&nbsp;
+[![Keylogger](https://github-readme-stats.vercel.app/api/pin/?username=Soumit-Santra&repo=Keylogger&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&icon_color=00ff41&text_color=c0c0c0&border_radius=10)](https://github.com/Soumit-Santra/Keylogger)
+
+[![Password-Generator](https://github-readme-stats.vercel.app/api/pin/?username=Soumit-Santra&repo=Password-Generator&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&icon_color=00ff41&text_color=c0c0c0&border_radius=10)](https://github.com/Soumit-Santra/Password-Generator)
+&nbsp;
+[![Port-Scanner](https://github-readme-stats.vercel.app/api/pin/?username=Soumit-Santra&repo=Port-Scanner&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&icon_color=00ff41&text_color=c0c0c0&border_radius=10)](https://github.com/Soumit-Santra/Port-Scanner)
+
+[![Cryptography-Tool](https://github-readme-stats.vercel.app/api/pin/?username=Soumit-Santra&repo=Cryptography-Tool&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&icon_color=00ff41&text_color=c0c0c0&border_radius=10)](https://github.com/Soumit-Santra/Cryptography-Tool)
+&nbsp;
+[![Soumit-Santra](https://github-readme-stats.vercel.app/api/pin/?username=Soumit-Santra&repo=Soumit-Santra&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&icon_color=00ff41&text_color=c0c0c0&border_radius=10)](https://github.com/Soumit-Santra/Soumit-Santra)
 
 </div>
 
