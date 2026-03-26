@@ -111,22 +111,56 @@
 
 ```bash
 ┌──(soumit㉿matrix)-[~]
-└─$ ./fetch_stats.sh --user Soumit-Santra --verbose
+└─$ ./fetch_stats.sh --user Soumit-Santra --verbose --decrypt
+[●] Connecting to GitHub API...
+[●] Decrypting profile data...
+[✔] INTEL RETRIEVED — displaying now
 ```
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Soumit-Santra&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=00bfff&icon_color=00bfff&text_color=c0c0c0&border_radius=10&include_all_commits=true&count_private=true" height="185"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumit-Santra&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=00bfff&text_color=c0c0c0&border_radius=10&langs_count=8" height="185"/>
+<!-- ROW 1: Stats + Languages side by side -->
+<a href="https://github.com/Soumit-Santra">
+  <img src="https://github-readme-stats.vercel.app/api?username=Soumit-Santra&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00bfff&icon_color=00bfff&text_color=c0c0c0&border_radius=12&include_all_commits=true&count_private=true&custom_title=⚡ Soumit's GitHub Stats" height="195"/>
+</a>
+<a href="https://github.com/Soumit-Santra?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumit-Santra&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00bfff&text_color=c0c0c0&border_radius=12&langs_count=8&custom_title=🖥️ Most Used Languages" height="195"/>
+</a>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Soumit-Santra&theme=terminal&hide_border=true&background=0d0d0d&ring=00bfff&fire=00bfff&currStreakLabel=00bfff&sideLabels=c0c0c0&dates=888888&border_radius=10" width="65%"/>
+<!-- DIVIDER -->
+```
+··············[ STREAK ANALYSIS ]··············
+```
+
+<!-- ROW 2: Streak centered -->
+<a href="https://github.com/Soumit-Santra">
+  <img src="https://streak-stats.demolab.com?user=Soumit-Santra&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=00bfff&fire=00bfff&currStreakLabel=00bfff&sideLabels=00bfff&dates=c0c0c0&stroke=00bfff&border_radius=12&currStreakNum=ffffff&sideNums=ffffff" width="70%"/>
+</a>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Soumit-Santra&bg_color=0d0d0d&color=00bfff&line=00bfff&point=ffffff&area=true&area_color=001a33&hide_border=true&border_radius=10&custom_title=Soumit's%20Contribution%20Graph" width="95%"/>
+<!-- DIVIDER -->
+```
+··············[ CONTRIBUTION HEATMAP ]··············
+```
+
+<!-- ROW 3: Activity Graph full width -->
+<a href="https://github.com/Soumit-Santra">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Soumit-Santra&bg_color=0D1117&color=00bfff&line=00bfff&point=ffffff&area=true&area_color=001a33&hide_border=true&radius=8&custom_title=📡 Soumit's Live Contribution Radar" width="97%"/>
+</a>
+
+<br/><br/>
+
+<!-- ROW 4: Extra stat badges -->
+<img src="https://img.shields.io/badge/Total%20Repos-8-00bfff?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Stars%20Earned-2-00bfff?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Language-Python-00bfff?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Focus-Cybersecurity-00bfff?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=0D1117"/>
 
 </div>
 
