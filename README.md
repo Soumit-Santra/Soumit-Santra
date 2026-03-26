@@ -112,65 +112,66 @@
 ```bash
 ┌──(soumit㉿matrix)-[~]
 └─$ ./fetch_stats.sh --user Soumit-Santra --verbose --decrypt
-[●] Connecting to GitHub API...
-[●] Decrypting profile data...
+[●] Pinging → https://github.com/Soumit-Santra
+[●] Fetching profile data...
 [✔] INTEL RETRIEVED — displaying now
 ```
 
 <div align="center">
 
-<!-- ROW 1: Stats + Languages side by side -->
+<!-- ═══ STATS + LANGUAGES ═══ -->
+
 <a href="https://github.com/Soumit-Santra">
   <img src="https://github-readme-stats.vercel.app/api?username=Soumit-Santra&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00bfff&icon_color=00bfff&text_color=c0c0c0&border_radius=12&include_all_commits=true&count_private=true&custom_title=⚡ Soumit's GitHub Stats" height="195"/>
 </a>
+&nbsp;
 <a href="https://github.com/Soumit-Santra?tab=repositories">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumit-Santra&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00bfff&text_color=c0c0c0&border_radius=12&langs_count=8&custom_title=🖥️ Most Used Languages" height="195"/>
 </a>
 
 <br/><br/>
 
-<!-- DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:001a33,100:0D1117&height=2&section=header" width="100%"/>
+<!-- ═══ STREAK ═══ -->
 
-<br/>
-<sub>🔥 STREAK ANALYSIS</sub>
-<br/><br/>
-
-<!-- ROW 2: Streak centered -->
 <a href="https://github.com/Soumit-Santra">
   <img src="https://streak-stats.demolab.com?user=Soumit-Santra&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=00bfff&fire=00bfff&currStreakLabel=00bfff&sideLabels=00bfff&dates=c0c0c0&stroke=00bfff&border_radius=12&currStreakNum=ffffff&sideNums=ffffff" width="70%"/>
 </a>
 
 <br/><br/>
 
-<!-- DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:001a33,100:0D1117&height=2&section=header" width="100%"/>
+<!-- ═══ CONTRIBUTION HEATMAP — uses github.com/Soumit-Santra directly ═══ -->
 
-<br/>
-<sub>📡 CONTRIBUTION HEATMAP</sub>
-<br/><br/>
-
-<!-- ROW 3: Activity Graph full width -->
-<a href="https://github.com/Soumit-Santra">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Soumit-Santra&bg_color=0D1117&color=00bfff&line=00bfff&point=ffffff&area=true&area_color=001833&hide_border=true&radius=8&custom_title=Soumit%27s%20Live%20Contribution%20Radar" width="97%"/>
-</a>
-
-<br/>
-
-<a href="https://github.com/Soumit-Santra">
-  <img src="https://ghchart.rshah.org/00bfff/Soumit-Santra" width="97%" alt="Soumit-Santra's GitHub Contribution Chart"/>
+<a href="https://github.com/Soumit-Santra#contributions">
+  <img src="https://ghchart.rshah.org/00bfff/Soumit-Santra" width="97%" alt="Soumit Santra's GitHub Contribution Heatmap"/>
 </a>
 
 <br/><br/>
 
-<!-- ROW 4: Extra stat badges -->
-<img src="https://img.shields.io/badge/Total%20Repos-8-00bfff?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
+<!-- ═══ ACTIVITY GRAPH — uses github.com/Soumit-Santra commit history ═══ -->
+
+<a href="https://github.com/Soumit-Santra">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Soumit-Santra&bg_color=0D1117&color=00bfff&line=00bfff&point=ffffff&area=true&area_color=001833&hide_border=true&radius=8&custom_title=Soumit%27s%20Commit%20Activity%20%E2%80%94%20github.com%2FSoumit-Santra" width="97%"/>
+</a>
+
+<br/><br/>
+
+<!-- ═══ QUICK STAT BADGES ═══ -->
+
+<a href="https://github.com/Soumit-Santra?tab=repositories">
+  <img src="https://img.shields.io/badge/Repos-8-00bfff?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
+</a>
 &nbsp;
-<img src="https://img.shields.io/badge/Stars%20Earned-2-00bfff?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
+<a href="https://github.com/Soumit-Santra/File-Organizer/stargazers">
+  <img src="https://img.shields.io/badge/Stars%20Earned-2-00bfff?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
+</a>
 &nbsp;
-<img src="https://img.shields.io/badge/Language-Python-00bfff?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117"/>
+<a href="https://github.com/Soumit-Santra?tab=followers">
+  <img src="https://img.shields.io/github/followers/Soumit-Santra?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=00bfff&labelColor=0D1117"/>
+</a>
 &nbsp;
-<img src="https://img.shields.io/badge/Focus-Cybersecurity-00bfff?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=0D1117"/>
+<a href="https://github.com/Soumit-Santra">
+  <img src="https://img.shields.io/badge/Focus-Cybersecurity-00bfff?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=0D1117"/>
+</a>
 
 </div>
 
