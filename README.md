@@ -130,9 +130,11 @@
 <br/><br/>
 
 <!-- DIVIDER -->
-```
-··············[ STREAK ANALYSIS ]··············
-```
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:001a33,100:0D1117&height=2&section=header" width="100%"/>
+
+<br/>
+<sub>🔥 STREAK ANALYSIS</sub>
+<br/><br/>
 
 <!-- ROW 2: Streak centered -->
 <a href="https://github.com/Soumit-Santra">
@@ -142,9 +144,11 @@
 <br/><br/>
 
 <!-- DIVIDER -->
-```
-··············[ CONTRIBUTION HEATMAP ]··············
-```
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:001a33,100:0D1117&height=2&section=header" width="100%"/>
+
+<br/>
+<sub>📡 CONTRIBUTION HEATMAP</sub>
+<br/><br/>
 
 <!-- ROW 3: Activity Graph full width -->
 <a href="https://github.com/Soumit-Santra">
