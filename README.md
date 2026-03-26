@@ -152,7 +152,13 @@
 
 <!-- ROW 3: Activity Graph full width -->
 <a href="https://github.com/Soumit-Santra">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Soumit-Santra&bg_color=0D1117&color=00bfff&line=00bfff&point=ffffff&area=true&area_color=001a33&hide_border=true&radius=8&custom_title=📡 Soumit's Live Contribution Radar" width="97%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Soumit-Santra&bg_color=0D1117&color=00bfff&line=00bfff&point=ffffff&area=true&area_color=001833&hide_border=true&radius=8&custom_title=Soumit%27s%20Live%20Contribution%20Radar" width="97%"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/Soumit-Santra">
+  <img src="https://ghchart.rshah.org/00bfff/Soumit-Santra" width="97%" alt="Soumit-Santra's GitHub Contribution Chart"/>
 </a>
 
 <br/><br/>
