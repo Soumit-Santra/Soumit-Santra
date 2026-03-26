@@ -1,23 +1,24 @@
 <div align="center">
 
-<!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003300,100:00ff41&height=200&section=header&text=Soumit%20Santra&fontSize=60&fontColor=00ff41&fontAlignY=38&desc=%5B%20Full%20Stack%20Dev%20%7C%20Cybersecurity%20Enthusiast%20%5D&descAlignY=58&descColor=c0c0c0&animation=twinkling" width="100%"/>
-
-<!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=700&lines=%24+whoami+%E2%86%92+Soumit+Santra;%5B+FULL+STACK+DEVELOPER+%5D;%5B+CYBERSECURITY+ENTHUSIAST+%5D;%5B+ROOT+ACCESS+GRANTED+%E2%9C%94+%5D;%5B+CTF+PLAYER+%7C+BUG+HUNTER+%5D;%5B+HACK+THE+PLANET+%5D" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003300,100:00ff41&height=220&section=header&text=Soumit%20Santra&fontSize=65&fontColor=00ff41&fontAlignY=38&desc=%5B%20Full%20Stack%20Developer%20%7C%20Cybersecurity%20Enthusiast%20%5D&descAlignY=60&descColor=c0c0c0&animation=twinkling&stroke=00ff41&strokeWidth=2" width="100%"/>
 
 <br/>
 
-<!-- BADGES -->
-<img src="https://komarev.com/ghpvc/?username=Soumit-Santra&style=for-the-badge&color=00ff41&labelColor=0d0d0d&label=VISITORS" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=750&lines=%24+whoami+%E2%86%92+Soumit+Santra;%5B+INITIALIZING+SYSTEM...+%5D;%5B+FULL+STACK+DEVELOPER+LOADED+%E2%9C%94+%5D;%5B+CYBERSECURITY+MODULE+ACTIVE+%E2%9C%94+%5D;%5B+CEH+%7C+Bug+Hunter+%7C+Pen+Tester+%5D;%5B+ROOT+ACCESS+GRANTED+%F0%9F%94%93+%5D;%5B+HACK+THE+PLANET+%F0%9F%8C+%5D" alt="Typing SVG"/>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Soumit-Santra&style=for-the-badge&color=00ff41&labelColor=0d0d0d&label=👁️+PROFILE+VIEWS"/>
 &nbsp;
-<img src="https://img.shields.io/github/followers/Soumit-Santra?style=for-the-badge&color=00ff41&labelColor=0d0d0d&logo=github&logoColor=00ff41&label=FOLLOWERS" />
+<img src="https://img.shields.io/github/followers/Soumit-Santra?style=for-the-badge&color=00ff41&labelColor=0d0d0d&logo=github&logoColor=00ff41&label=FOLLOWERS"/>
 &nbsp;
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00ff41?style=for-the-badge&labelColor=0d0d0d&logo=statuspage&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00ff41?style=for-the-badge&labelColor=0d0d0d&logo=statuspage&logoColor=00ff41"/>
 &nbsp;
-<img src="https://img.shields.io/badge/OPEN_TO-COLLABORATE-00ff41?style=for-the-badge&labelColor=0d0d0d&logo=handshake&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/OPEN%20TO-COLLABORATE-00ff41?style=for-the-badge&labelColor=0d0d0d&logo=handshake&logoColor=00ff41"/>
 
 </div>
+
+<br/>
 
 ---
 
@@ -29,17 +30,21 @@
 ```
 
 ```yaml
-Name        : Soumit Santra
-GitHub      : github.com/Soumit-Santra
-Role        : Full Stack Developer & Cybersecurity Enthusiast
-Location    : India 🇮🇳
-OS          : Kali Linux / Ubuntu
-Shell       : zsh + oh-my-zsh
-Editor      : VS Code + Neovim
-Expertise   : Pen Testing · Web/API/Android Security · Ethical Hacking
-Certs       : CEH | Python/PHP Dev | Bug Hunter
-Status      : [■■■■■■■■■■] Hacking... always.
-Mission     : Build. Break. Secure. Repeat.
+╔══════════════════════════════════════════════════════════════╗
+║                    OPERATOR PROFILE                          ║
+╠══════════════════════════════════════════════════════════════╣
+║  Name        :  Soumit Santra                                ║
+║  Handle      :  github.com/Soumit-Santra                     ║
+║  Role        :  Full Stack Developer & Cybersecurity Expert  ║
+║  Location    :  India 🇮🇳                                     ║
+║  OS          :  Kali Linux / Ubuntu                          ║
+║  Shell       :  zsh + oh-my-zsh                              ║
+║  Editor      :  VS Code + Neovim                             ║
+║  Expertise   :  Web · API · Android Security · Pen Testing   ║
+║  Certs       :  CEH | Bug Hunter | Python/PHP Dev            ║
+║  Status      :  [██████████] 100% — Always hacking.          ║
+║  Mission     :  Build. Break. Secure. Repeat.                ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
 ---
@@ -48,7 +53,7 @@ Mission     : Build. Break. Secure. Repeat.
 
 ```bash
 ┌──(soumit㉿matrix)-[~]
-└─$ cat /etc/skills.conf
+└─$ cat /etc/skills.conf | grep -A 999 "LOADED"
 ```
 
 ### 🖥️ Frontend
@@ -106,22 +111,22 @@ Mission     : Build. Break. Secure. Repeat.
 
 ```bash
 ┌──(soumit㉿matrix)-[~]
-└─$ ./fetch_stats.sh --user Soumit-Santra
+└─$ ./fetch_stats.sh --user Soumit-Santra --verbose
 ```
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Soumit-Santra&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&icon_color=00ff41&text_color=c0c0c0&border_radius=10" height="185"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Soumit-Santra&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&icon_color=00ff41&text_color=c0c0c0&border_radius=10&include_all_commits=true&count_private=true" height="185"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumit-Santra&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=c0c0c0&border_radius=10" height="185"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumit-Santra&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=c0c0c0&border_radius=10&langs_count=8" height="185"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Soumit-Santra&theme=terminal&hide_border=true&background=0d0d0d&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=c0c0c0&dates=888888&border_radius=10" width="60%"/>
+<img src="https://streak-stats.demolab.com?user=Soumit-Santra&theme=terminal&hide_border=true&background=0d0d0d&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=c0c0c0&dates=888888&border_radius=10" width="65%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Soumit-Santra&bg_color=0d0d0d&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=003300&hide_border=true&border_radius=10" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Soumit-Santra&bg_color=0d0d0d&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=003300&hide_border=true&border_radius=10&custom_title=Soumit's%20Contribution%20Graph" width="95%"/>
 
 </div>
 
@@ -156,22 +161,24 @@ Mission     : Build. Break. Secure. Repeat.
 
 ```bash
 ┌──(soumit㉿matrix)-[~]
-└─$ nmap -sV --open soumit.dev
+└─$ nmap -sV -sC --open -T4 soumit.dev
 ```
 
 ```
-Starting Nmap 7.94 scan report for soumit.dev
+Starting Nmap 7.94SVN scan report for soumit.dev (github.com/Soumit-Santra)
 
-PORT        STATE   SERVICE          INFO
-22/tcp      open    ssh              ✅ Open for collaboration
-80/tcp      open    http             🌐 Portfolio — LIVE
-443/tcp     open    https            🔒 Encrypted. Secure by design.
-3000/tcp    open    react-dev        ⚛️  Always building something new
-8080/tcp    open    api-server       🔌 RESTful & GraphQL endpoints live
-9999/tcp    open    ctf-listener     🚩 CTF Mode: ACTIVE
-31337/tcp   open    elite            😈 h4x0r port — always open
+PORT        STATE   SERVICE          BANNER
+22/tcp      open    ssh              ✅ Open for collaboration — always
+80/tcp      open    http             🌐 Portfolio — LIVE & deployed
+443/tcp     open    https            🔒 SSL/TLS — Encrypted by design
+3000/tcp    open    react-dev        ⚛️  Building next-gen web apps
+8080/tcp    open    api-server       🔌 RESTful · GraphQL · Secure APIs
+9999/tcp    open    ctf-listener     🚩 CTF Mode: ACTIVE — 24/7
+6379/tcp    open    security-lab     🛡️  Web · API · Android pen testing
+31337/tcp   open    elite            😈 h4x0r port — elite access only
 
-Nmap done: 7 ports open | 0 filtered | Hack The Planet ✊
+Nmap done: 8 ports scanned | 8 open | 0 filtered
+[*] Hack The Planet ✊
 ```
 
 ---
@@ -180,19 +187,23 @@ Nmap done: 7 ports open | 0 filtered | Hack The Planet ✊
 
 ```bash
 ┌──(soumit㉿matrix)-[~]
-└─$ cat /proc/current_ops
+└─$ cat /proc/current_ops && tail -f /var/log/progress.log
 ```
 
 ```
-🔭  Building   →  Full Stack web applications at scale
-🔐  Learning   →  Advanced penetration testing & OSINT
-🧩  Playing    →  CTF Challenges (HackTheBox / TryHackMe)
-🐧  Running    →  Kali Linux as daily driver
-⚡  Automating →  Everything that can be automated
-🐛  Hunting    →  Bugs across Web / API / Android
-💬  Ask me     →  Web dev, cybersecurity, Linux tricks
-🤝  Open to    →  Collabs, freelance, open source PRs
-☕  Fuel        →  Coffee + terminal = productivity
+╔══════════════════════════════════════════════════════╗
+║               ACTIVE OPERATIONS LOG                  ║
+╠══════════════════════════════════════════════════════╣
+║  🔭  Building   → Full Stack apps at scale           ║
+║  🔐  Learning   → Advanced pen testing & OSINT       ║
+║  🧩  Playing    → CTF (HackTheBox / TryHackMe)       ║
+║  🐧  Running    → Kali Linux as daily driver         ║
+║  ⚡  Automating → Everything that can be automated   ║
+║  🐛  Hunting    → Bugs across Web / API / Android    ║
+║  💬  Ask me     → Web dev · Cybersecurity · Linux    ║
+║  🤝  Open to    → Collabs · Freelance · Open Source  ║
+║  ☕  Fuel        → Coffee + terminal = productivity   ║
+╚══════════════════════════════════════════════════════╝
 ```
 
 ---
@@ -201,20 +212,24 @@ Nmap done: 7 ports open | 0 filtered | Hack The Planet ✊
 
 ```bash
 ┌──(soumit㉿matrix)-[~]
-└─$ ./connect.sh --target soumit --protocol all
+└─$ ./connect.sh --target soumit --protocol all --encrypt true
 ```
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Soumit_Santra-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d)](https://linkedin.com/in/soumitsantra)
-&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-Soumit--Santra-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d)](https://github.com/Soumit-Santra)
 &nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-soumitsantra-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d)](mailto:soumitsantra@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Soumit_Santra-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d)](https://linkedin.com/in/soumitsantra)
 &nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d)](mailto:soumitsantra@gmail.com)
+
+<br/>
+
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Soumit--Santra-212C42?style=for-the-badge&logo=tryhackme&logoColor=red&labelColor=0d0d0d)](https://tryhackme.com/p/soumitsantra)
 &nbsp;
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-Soumit--Santra-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black&labelColor=0d0d0d)](https://app.hackthebox.com/profile/soumitsantra)
+&nbsp;
+[![Twitter](https://img.shields.io/badge/Twitter-@soumitsantra-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0d0d0d)](https://twitter.com/soumitsantra)
 
 </div>
 
@@ -224,7 +239,7 @@ Nmap done: 7 ports open | 0 filtered | Hack The Planet ✊
 
 ```bash
 ┌──(soumit㉿matrix)-[~]
-└─$ watch -n 1 git log --all --oneline
+└─$ git log --all --graph --oneline --author="Soumit-Santra"
 ```
 
 <div align="center">
@@ -237,14 +252,26 @@ Nmap done: 7 ports open | 0 filtered | Hack The Planet ✊
 
 <div align="center">
 
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│   "The quieter you become, the more you are able to hear."      │
+│                                          — Kali Linux           │
+│                                                                 │
+│   "I didn't hack the system. I just understood it better        │
+│    than it understood itself."                                  │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
+
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="70%"/>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:003300,100:000000&height=130&section=footer&text=root%40soumit%3A~%23%20_&fontSize=22&fontColor=00ff41&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:003300,100:000000&height=140&section=footer&text=root%40soumit%3A~%23%20_&fontSize=24&fontColor=00ff41&animation=twinkling" width="100%"/>
 
 ```
-[ ✔ SESSION ACTIVE ]  ···  "I didn't hack the system. I just understood it better than it understood itself."  ···  [ ✔ UPTIME: ∞ ]
+[ ✔ SESSION ACTIVE ]  ·  github.com/Soumit-Santra  ·  [ ✔ UPTIME: ∞ ]
 ```
 
 </div>
