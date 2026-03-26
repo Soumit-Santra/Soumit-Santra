@@ -4,14 +4,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003300,100:00ff41&height=200&section=header&text=Soumit%20Santra&fontSize=60&fontColor=00ff41&fontAlignY=38&desc=%5B%20Full%20Stack%20Dev%20%7C%20Cybersecurity%20Enthusiast%20%5D&descAlignY=58&descColor=c0c0c0&animation=twinkling" width="100%"/>
 
 <!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=700&lines=%24+whoami+%E2%86%92+Soumit+Santra;%5B+FULL+STACK+DEVELOPER+%5D;%5B+CYBERSECURITY+ENTHUSIAST+%5D;%5B+ROOT+ACCESS+GRANTED+%E2%9C%94+%5D;%5B+CTF+PLAYER+%7C+OPEN+SOURCE+LOVER+%5D;%5B+HACK+THE+PLANET+%5D" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=700&lines=%24+whoami+%E2%86%92+Soumit+Santra;%5B+FULL+STACK+DEVELOPER+%5D;%5B+CYBERSECURITY+ENTHUSIAST+%5D;%5B+ROOT+ACCESS+GRANTED+%E2%9C%94+%5D;%5B+CTF+PLAYER+%7C+BUG+HUNTER+%5D;%5B+HACK+THE+PLANET+%5D" alt="Typing SVG" />
 
 <br/>
 
-<!-- BADGES ROW -->
-<img src="https://komarev.com/ghpvc/?username=soumitsantra&style=for-the-badge&color=00ff41&labelColor=0d0d0d&label=VISITORS" />
+<!-- BADGES -->
+<img src="https://komarev.com/ghpvc/?username=Soumit-Santra&style=for-the-badge&color=00ff41&labelColor=0d0d0d&label=VISITORS" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/soumitsantra?style=for-the-badge&color=00ff41&labelColor=0d0d0d&logo=github&logoColor=00ff41&label=FOLLOWERS" />
+<img src="https://img.shields.io/github/followers/Soumit-Santra?style=for-the-badge&color=00ff41&labelColor=0d0d0d&logo=github&logoColor=00ff41&label=FOLLOWERS" />
 &nbsp;
 <img src="https://img.shields.io/badge/STATUS-ONLINE-00ff41?style=for-the-badge&labelColor=0d0d0d&logo=statuspage&logoColor=00ff41" />
 &nbsp;
@@ -30,11 +30,14 @@
 
 ```yaml
 Name        : Soumit Santra
+GitHub      : github.com/Soumit-Santra
 Role        : Full Stack Developer & Cybersecurity Enthusiast
 Location    : India 🇮🇳
 OS          : Kali Linux / Ubuntu
 Shell       : zsh + oh-my-zsh
 Editor      : VS Code + Neovim
+Expertise   : Pen Testing · Web/API/Android Security · Ethical Hacking
+Certs       : CEH | Python/PHP Dev | Bug Hunter
 Status      : [■■■■■■■■■■] Hacking... always.
 Mission     : Build. Break. Secure. Repeat.
 ```
@@ -61,6 +64,7 @@ Mission     : Build. Break. Secure. Repeat.
 ### ⚙️ Backend
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -83,6 +87,7 @@ Mission     : Build. Break. Secure. Repeat.
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)
 ![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
+![CEH](https://img.shields.io/badge/CEH-Certified-00ff41?style=for-the-badge&logo=instructure&logoColor=white&labelColor=0d0d0d)
 
 ### 🛠️ DevOps & Tools
 
@@ -101,22 +106,22 @@ Mission     : Build. Break. Secure. Repeat.
 
 ```bash
 ┌──(soumit㉿matrix)-[~]
-└─$ ./fetch_stats.sh --user soumitsantra
+└─$ ./fetch_stats.sh --user Soumit-Santra
 ```
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=soumitsantra&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&icon_color=00ff41&text_color=c0c0c0&border_radius=10" height="185"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Soumit-Santra&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&icon_color=00ff41&text_color=c0c0c0&border_radius=10" height="185"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumitsantra&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=c0c0c0&border_radius=10" height="185"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumit-Santra&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=c0c0c0&border_radius=10" height="185"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=soumitsantra&theme=terminal&hide_border=true&background=0d0d0d&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=c0c0c0&dates=888888&border_radius=10" width="60%"/>
+<img src="https://streak-stats.demolab.com?user=Soumit-Santra&theme=terminal&hide_border=true&background=0d0d0d&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=c0c0c0&dates=888888&border_radius=10" width="60%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=soumitsantra&bg_color=0d0d0d&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=003300&hide_border=true&border_radius=10" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Soumit-Santra&bg_color=0d0d0d&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=003300&hide_border=true&border_radius=10" width="95%"/>
 
 </div>
 
@@ -131,7 +136,7 @@ Mission     : Build. Break. Secure. Repeat.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=soumitsantra&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Soumit-Santra&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%"/>
 
 </div>
 
@@ -174,6 +179,7 @@ Nmap done: 7 ports open | 0 filtered | Hack The Planet ✊
 🧩  Playing    →  CTF Challenges (HackTheBox / TryHackMe)
 🐧  Running    →  Kali Linux as daily driver
 ⚡  Automating →  Everything that can be automated
+🐛  Hunting    →  Bugs across Web / API / Android
 💬  Ask me     →  Web dev, cybersecurity, Linux tricks
 🤝  Open to    →  Collabs, freelance, open source PRs
 ☕  Fuel        →  Coffee + terminal = productivity
@@ -192,15 +198,13 @@ Nmap done: 7 ports open | 0 filtered | Hack The Planet ✊
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Soumit_Santra-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d)](https://linkedin.com/in/soumitsantra)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-soumitsantra-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d)](https://github.com/soumitsantra)
+[![GitHub](https://img.shields.io/badge/GitHub-Soumit--Santra-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d)](https://github.com/Soumit-Santra)
 &nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-soumitsantra-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d)](mailto:soumitsantra@gmail.com)
 &nbsp;
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-soumitsantra-212C42?style=for-the-badge&logo=tryhackme&logoColor=red&labelColor=0d0d0d)](https://tryhackme.com/p/soumitsantra)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Soumit--Santra-212C42?style=for-the-badge&logo=tryhackme&logoColor=red&labelColor=0d0d0d)](https://tryhackme.com/p/soumitsantra)
 &nbsp;
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-soumitsantra-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black&labelColor=0d0d0d)](https://app.hackthebox.com/profile/soumitsantra)
-&nbsp;
-[![Twitter](https://img.shields.io/badge/Twitter-soumitsantra-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0d0d0d)](https://twitter.com/soumitsantra)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-Soumit--Santra-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black&labelColor=0d0d0d)](https://app.hackthebox.com/profile/soumitsantra)
 
 </div>
 
@@ -215,13 +219,12 @@ Nmap done: 7 ports open | 0 filtered | Hack The Planet ✊
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+<img src="https://raw.githubusercontent.com/Soumit-Santra/Soumit-Santra/output/github-contribution-grid-snake-dark.svg" width="95%"/>
 
 </div>
 
 ---
 
-<!-- FOOTER -->
 <div align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="70%"/>
