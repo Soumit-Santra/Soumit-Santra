@@ -244,7 +244,11 @@ Nmap done: 8 ports scanned | 8 open | 0 filtered
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Soumit-Santra/Soumit-Santra/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Soumit-Santra&bg_color=0d0d0d&color=00ff41&line=00ff41&point=00ff41&area=true&area_color=003300&hide_border=true&radius=6&custom_title=Soumit%27s%20Commit%20Activity" width="95%"/>
 
 </div>
 
