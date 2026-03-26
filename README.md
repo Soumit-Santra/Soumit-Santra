@@ -31,7 +31,7 @@
 ```
 ```
 > Soumit Santra
-> Full Stack Developer | Cybersecurity Enthusiast
+> Cybersecurity Enthusiast | Full Stack Developer 
 > Location: India 🇮🇳
 > Status: Always learning. Always hacking. Never stopping.
 ```
