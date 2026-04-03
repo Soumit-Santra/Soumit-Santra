@@ -36,7 +36,7 @@
 ║  Name        :  Soumit Santra                                ║
 ║  Handle      :  https://github.com/Soumit-Santra             ║
 ║  Role        :  Full Stack Developer & Cybersecurity Expert  ║
-║  Location    :  India 🇮🇳                                      ║
+║  Location    :  India 🇮🇳                                     ║
 ║  OS          :  Kali Linux / Ubuntu                          ║
 ║  Shell       :  zsh + oh-my-zsh                              ║
 ║  Editor      :  VS Code + Neovim                             ║
