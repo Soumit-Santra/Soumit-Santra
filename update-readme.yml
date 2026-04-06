@@ -1,0 +1,92 @@
+name: 🔄 Auto Update README Projects
+
+on:
+  push:
+    branches: [main, master]
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: 📥 Checkout repo
+        uses: actions/checkout@v4
+
+      - name: 🐍 Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: 📦 Install dependencies
+        run: pip install requests
+
+      - name: 🚀 Update README with latest repos
+        run: |
+          python3 << 'EOF'
+          import requests
+          import re
+
+          USERNAME = "Soumit-Santra"
+
+          def get_emoji(name, description):
+              combined = name.lower() + " " + (description or "").lower()
+              if any(k in combined for k in ["key", "logger", "keylog"]): return "🔑"
+              if any(k in combined for k in ["password", "passwd", "pass"]): return "🔐"
+              if any(k in combined for k in ["port", "scan", "nmap"]): return "🌐"
+              if any(k in combined for k in ["crypto", "cipher", "encrypt", "decrypt"]): return "🔒"
+              if any(k in combined for k in ["file", "organiz", "sort"]): return "🗂️"
+              if any(k in combined for k in ["web", "site", "frontend", "html", "css"]): return "🌍"
+              if any(k in combined for k in ["api", "backend", "server", "rest", "fastapi", "django", "flask"]): return "⚙️"
+              if any(k in combined for k in ["bot", "auto", "script", "tool"]): return "🤖"
+              if any(k in combined for k in ["hack", "ctf", "exploit", "vuln", "pentest", "security"]): return "🛡️"
+              if any(k in combined for k in ["android", "mobile", "apk"]): return "📱"
+              if any(k in combined for k in ["ml", "ai", "model", "learn", "neural"]): return "🧠"
+              if any(k in combined for k in ["game", "play"]): return "🎮"
+              if any(k in combined for k in ["profile", "readme"]): return "👾"
+              return "💻"
+
+          url = f"https://api.github.com/users/{USERNAME}/repos?per_page=100&sort=updated"
+          repos = requests.get(url).json()
+
+          filtered = [r for r in repos if not r["fork"] and not r["private"] and r["name"] != USERNAME]
+          filtered.sort(key=lambda r: -r["stargazers_count"])
+
+          rows = []
+          for r in filtered:
+              emoji = get_emoji(r["name"], r["description"])
+              desc = r["description"] or "No description provided."
+              stars = f" ⭐ {r['stargazers_count']}" if r["stargazers_count"] > 0 else ""
+              rows.append(f"| [{emoji} {r['name']}]({r['html_url']}) | {desc}{stars} |")
+
+          rows.append(f"| [👾 Profile README](https://github.com/{USERNAME}/{USERNAME}) | This very profile — hacked together with ❤️ |")
+
+          table = "| Project | Description |\n|--------|-------------|\n" + "\n".join(rows)
+
+          with open("README.md", "r", encoding="utf-8") as f:
+              content = f.read()
+
+          new_content = re.sub(
+              r"<!-- PROJECTS_START -->.*?<!-- PROJECTS_END -->",
+              f"<!-- PROJECTS_START -->\n{table}\n<!-- PROJECTS_END -->",
+              content,
+              flags=re.DOTALL
+          )
+
+          with open("README.md", "w", encoding="utf-8") as f:
+              f.write(new_content)
+
+          print(f"✅ Updated README with {len(filtered)} repos.")
+          EOF
+
+      - name: 💾 Commit and push if changed
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --staged --quiet || git commit -m "🤖 Auto-update project list [skip ci]"
+          git push
