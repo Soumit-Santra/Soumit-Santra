@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Soumit-Santra&style=for-the-badge&color=00bfff&labelColor=0d0d0d&label=👁️+PROFILE+VIEWS)](https://github.com/Soumit-Santra)
+[![Profile Views](https://komarev.com/ghpvc/?username=Soumit-Santra&style=for-the-badge&color=00bfff&labelColor=0d0d0d&label=PROFILE+VIEWS)](https://github.com/Soumit-Santra)
 &nbsp;
 [![Followers](https://img.shields.io/github/followers/Soumit-Santra?style=for-the-badge&color=00bfff&labelColor=0d0d0d&logo=github&logoColor=00bfff&label=FOLLOWERS)](https://github.com/Soumit-Santra?tab=followers)
 &nbsp;
@@ -119,28 +119,19 @@
 
 <div align="center">
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Soumit-Santra&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00bfff&icon_color=00bfff&text_color=c0c0c0&border_radius=12&include_all_commits=true&count_private=true&custom_title=⚡ Soumit's GitHub Stats" height="195"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumit-Santra&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00bfff&text_color=c0c0c0&border_radius=12&langs_count=8&custom_title=🖥️ Most Used Languages" height="195"/>
-    </td>
-  </tr>
-</table>
+<img src="https://github-readme-stats.vercel.app/api?username=Soumit-Santra&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00bfff&icon_color=00bfff&text_color=c0c0c0&border_radius=12&include_all_commits=true&count_private=true&custom_title=Soumit%27s+GitHub+Stats&cache_seconds=1800" height="195"/>
 
 <br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumit-Santra&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00bfff&text_color=c0c0c0&border_radius=12&langs_count=8&custom_title=Most+Used+Languages&cache_seconds=1800" height="195"/>
+
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=Soumit-Santra&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=00bfff&fire=00bfff&currStreakLabel=00bfff&sideLabels=00bfff&dates=c0c0c0&stroke=00bfff&border_radius=12&currStreakNum=ffffff&sideNums=ffffff" width="70%"/>
 
 <br/><br/>
 
-<img src="https://ghchart.rshah.org/00bfff/Soumit-Santra" width="97%" alt="Soumit Santra's GitHub Contribution Heatmap"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Soumit-Santra&bg_color=0D1117&color=00bfff&line=00bfff&point=ffffff&area=true&area_color=001833&hide_border=true&radius=8&custom_title=Soumit%27s%20Commit%20Activity%20—%20github.com%2FSoumit-Santra" width="97%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Soumit-Santra&bg_color=0D1117&color=00bfff&line=00bfff&point=ffffff&area=true&area_color=001833&hide_border=true&radius=8&custom_title=Soumit%27s+Commit+Activity" width="97%"/>
 
 <br/><br/>
 
@@ -165,46 +156,18 @@
 
 <div align="center">
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/Soumit-Santra/File-Organizer">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Soumit-Santra&repo=File-Organizer&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=00bfff&icon_color=00bfff&text_color=c0c0c0&border_radius=10"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Soumit-Santra/Keylogger">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Soumit-Santra&repo=Keylogger&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=00bfff&icon_color=00bfff&text_color=c0c0c0&border_radius=10"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/Soumit-Santra/Password-Generator">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Soumit-Santra&repo=Password-Generator&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=00bfff&icon_color=00bfff&text_color=c0c0c0&border_radius=10"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Soumit-Santra/Port-Scanner">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Soumit-Santra&repo=Port-Scanner&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=00bfff&icon_color=00bfff&text_color=c0c0c0&border_radius=10"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/Soumit-Santra/Cryptography-Tool">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Soumit-Santra&repo=Cryptography-Tool&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=00bfff&icon_color=00bfff&text_color=c0c0c0&border_radius=10"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Soumit-Santra/Soumit-Santra">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Soumit-Santra&repo=Soumit-Santra&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=00bfff&icon_color=00bfff&text_color=c0c0c0&border_radius=10"/>
-      </a>
-    </td>
-  </tr>
-</table>
+| Project | Description |
+|--------|-------------|
+| [🗂️ File-Organizer](https://github.com/Soumit-Santra/File-Organizer) | Automates file sorting and organization using Python |
+| [🔑 Keylogger](https://github.com/Soumit-Santra/Keylogger) | Keystroke capture tool built for security research |
+| [🔐 Password-Generator](https://github.com/Soumit-Santra/Password-Generator) | Secure, customizable password generator |
+| [🌐 Port-Scanner](https://github.com/Soumit-Santra/Port-Scanner) | Fast network port scanner written in Python |
+| [🔒 Cryptography-Tool](https://github.com/Soumit-Santra/Cryptography-Tool) | Encryption & decryption toolkit for security tasks |
+| [👾 Profile README](https://github.com/Soumit-Santra/Soumit-Santra) | This very profile — hacked together with ❤️ |
 
 </div>
+
+> ⚠️ **Note:** GitHub README stat cards (repo pins) require the repos to be **public** and the external API (github-readme-stats) to be reachable. If cards appear broken, visit each repo link directly.
 
 ---
 
@@ -299,7 +262,7 @@ Nmap done: 8 ports scanned | 8 open | 0 filtered
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Soumit-Santra&bg_color=0d0d0d&color=00bfff&line=00bfff&point=00bfff&area=true&area_color=001a33&hide_border=true&radius=6&custom_title=Soumit%27s%20Commit%20Activity" width="95%"/>
+<img src="https://ghchart.rshah.org/00bfff/Soumit-Santra" width="97%" alt="Soumit Santra's GitHub Contribution Heatmap"/>
 
 </div>
 
@@ -319,9 +282,7 @@ Nmap done: 8 ports scanned | 8 open | 0 filtered
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="70%"/>
-
-<br/><br/>
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00bfff,50:001a33,100:000000&height=140&section=footer&text=root%40soumit%3A~%23%20_&fontSize=24&fontColor=00bfff&animation=twinkling" width="100%"/>
 
