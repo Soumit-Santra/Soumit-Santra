@@ -217,7 +217,7 @@ Nmap done: 8 ports scanned | 8 open | 0 filtered
 ║  🐛  Hunting    → Bugs across Web / API / Android    ║
 ║  💬  Ask me     → Web dev · Cybersecurity · Linux    ║
 ║  🤝  Open to    → Collabs · Freelance · Open Source  ║
-║  ☕  Fuel        → Coffee + terminal = productivity   ║
+║  ☕  Fuel        → Coffee + terminal = productivity  ║
 ╚══════════════════════════════════════════════════════╝
 ```
 
