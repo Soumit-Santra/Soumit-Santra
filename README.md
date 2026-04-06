@@ -156,6 +156,7 @@
 
 <div align="center">
 
+<!-- PROJECTS_START -->
 | Project | Description |
 |--------|-------------|
 | [🗂️ File-Organizer](https://github.com/Soumit-Santra/File-Organizer) | Automates file sorting and organization using Python |
@@ -164,10 +165,9 @@
 | [🌐 Port-Scanner](https://github.com/Soumit-Santra/Port-Scanner) | Fast network port scanner written in Python |
 | [🔒 Cryptography-Tool](https://github.com/Soumit-Santra/Cryptography-Tool) | Encryption & decryption toolkit for security tasks |
 | [👾 Profile README](https://github.com/Soumit-Santra/Soumit-Santra) | This very profile — hacked together with ❤️ |
+<!-- PROJECTS_END -->
 
 </div>
-
-> ⚠️ **Note:** GitHub README stat cards (repo pins) require the repos to be **public** and the external API (github-readme-stats) to be reachable. If cards appear broken, visit each repo link directly.
 
 ---
 
