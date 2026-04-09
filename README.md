@@ -161,10 +161,10 @@
 |--------|-------------|
 | [🌐 File-Organizer](https://github.com/Soumit-Santra/File-Organizer) | A feature-rich file organization tool with GUI support that automatically sorts files by date, type, or size, with duplicate detection, real-time monitoring, and cloud sync capabilities. ⭐ 4 |
 | [🔐 Password-Generator](https://github.com/Soumit-Santra/Password-Generator) | A secure and feature-rich password generation tool built in Python, offering cryptographically strong passwords, passphrases, TOTP support, encrypted storage, and comprehensive strength analysis. ⭐ 1 |
+| [🔑 Keylogger](https://github.com/Soumit-Santra/Keylogger) | A Python-based system activity monitoring and security research tool intended for controlled environments, focusing on user consent, data transparency, and defensive cybersecurity learning. ⭐ 1 |
 | [🔒 Cryptography-Tool](https://github.com/Soumit-Santra/Cryptography-Tool) | All-in-one cryptography and cryptanalysis tool with classical ciphers, modern encryption (RSA, Fernet), hashing, steganography, and security analysis features. ⭐ 1 |
 | [🌐 Port-Scanner](https://github.com/Soumit-Santra/Port-Scanner) | Advanced network scanning tool built in Python with multi-threaded TCP/UDP scanning, service detection, OS fingerprinting, traceroute, and customizable scan modes. ⭐ 1 |
 | [🌐 Network-Web-Vulnerability-Assessment-Tool](https://github.com/Soumit-Santra/Network-Web-Vulnerability-Assessment-Tool) | Advanced CLI-based network and web vulnerability scanner with port scanning, WHOIS, DNS analysis, and detection of XSS, SQLi, SSRF, and misconfigurations. ⭐ 1 |
-| [🔑 Keylogger](https://github.com/Soumit-Santra/Keylogger) | A Python-based system activity monitoring and security research tool intended for controlled environments, focusing on user consent, data transparency, and defensive cybersecurity learning. ⭐ 1 |
 | [👾 Profile README](https://github.com/Soumit-Santra/Soumit-Santra) | This very profile — hacked together with ❤️ |
 <!-- PROJECTS_END -->
 
