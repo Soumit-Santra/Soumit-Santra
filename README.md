@@ -165,6 +165,7 @@
 | [🔑 Keylogger](https://github.com/Soumit-Santra/Keylogger) | A Python-based system activity monitoring and security research tool intended for controlled environments, focusing on user consent, data transparency, and defensive cybersecurity learning. ⭐ 1 |
 | [🔒 Cryptography-Tool](https://github.com/Soumit-Santra/Cryptography-Tool) | All-in-one cryptography and cryptanalysis tool with classical ciphers, modern encryption (RSA, Fernet), hashing, steganography, and security analysis features. ⭐ 1 |
 | [🌐 Network-Web-Vulnerability-Assessment-Tool](https://github.com/Soumit-Santra/Network-Web-Vulnerability-Assessment-Tool) | Advanced CLI-based network and web vulnerability scanner with port scanning, WHOIS, DNS analysis, and detection of XSS, SQLi, SSRF, and misconfigurations. ⭐ 1 |
+| [🤖 AegisUSB](https://github.com/Soumit-Santra/AegisUSB) | USB Sentinel is an advanced USB security and forensic analysis tool that detects malicious devices, suspicious payloads, and post-insertion activity using behavioral analysis, risk scoring, and multi-engine threat detection. |
 | [👾 Profile README](https://github.com/Soumit-Santra/Soumit-Santra) | This very profile — hacked together with ❤️ |
 <!-- PROJECTS_END -->
 
