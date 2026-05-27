@@ -137,7 +137,7 @@
 
 [![GitHub Repos](https://img.shields.io/badge/Repos-8-00bfff?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/Soumit-Santra?tab=repositories)
 &nbsp;
-[![Stars Earned](https://img.shields.io/github/stars/Soumit-Santra?style=for-the-badge&logo=github&logoColor=white&label=Stars+Earned&color=00bfff&labelColor=0D1117)](https://github.com/Soumit-Santra?tab=repositories)
+[![Stars Earned](https://img.shields.io/github/stars/Soumit-Santra?style=for-the-badge&logo=github&logoColor=white&label=Stars%20Earned&color=00bfff&labelColor=0D1117)](https://github.com/Soumit-Santra?tab=repositories)
 &nbsp;
 [![Followers](https://img.shields.io/github/followers/Soumit-Santra?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=00bfff&labelColor=0D1117)](https://github.com/Soumit-Santra?tab=followers)
 &nbsp;
