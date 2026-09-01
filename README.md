@@ -41,7 +41,7 @@
 ║  Shell       :  zsh + oh-my-zsh                              ║
 ║  Editor      :  VS Code + Neovim                             ║
 ║  Expertise   :  Web · API · Android Security · Pen Testing   ║
-║  Certs       :  CEH | Bug Hunter | Python/PHP Dev            ║
+║  Certs       :  CEH | Bug Hunter | Python/PHP Dev             ║
 ║  Status      :  [██████████] 100% — Always hacking.          ║
 ║  Mission     :  Build. Break. Secure. Repeat.                ║
 ╚══════════════════════════════════════════════════════════════╝
@@ -119,11 +119,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Soumit-Santra&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00bfff&icon_color=00bfff&text_color=c0c0c0&border_radius=12&include_all_commits=true&count_private=true&custom_title=Soumit%27s+GitHub+Stats" height="195"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Soumit-Santra&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00bfff&icon_color=00bfff&text_color=c0c0c0&border_radius=12&include_all_commits=true&count_private=true&custom_title=Soumit%27s+GitHub+Stats" height="195"/>
 
 <br/>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Soumit-Santra&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00bfff&text_color=c0c0c0&border_radius=12&langs_count=8&custom_title=Most+Used+Languages" height="195"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumit-Santra&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00bfff&text_color=c0c0c0&border_radius=12&langs_count=8&custom_title=Most+Used+Languages" height="195"/>
 
 <br/><br/>
 
